@@ -1,0 +1,14 @@
+layout_spectrum: 0.7140005151741207
+typography_spectrum: 0.23865789757110178
+color:
+  brandStrength: 0.010151612339541316
+  lightness: 0.017786564538255334
+  saturation: 0.5129022267647088
+  rhythmicContrast: 0.47787982877343893
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Both
